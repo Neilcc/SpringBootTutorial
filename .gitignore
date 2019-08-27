@@ -1,0 +1,7 @@
+.idea/
+.metadata/
+.recommenders/
+/**/.setttings
+/**/target
+/**/.classpath
+/**/.project
