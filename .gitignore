@@ -1,7 +1,10 @@
-.idea/
-.metadata/
-.recommenders/
-/**/.setttings
+/**/.idea/
+/**/*.iml
+/**/.springBeans
+/**/.apt_generated
+/**/.metadata
+/**/.recommenders
+/**/.settings
 /**/target
 /**/.classpath
 /**/.project
